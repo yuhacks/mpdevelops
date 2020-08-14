@@ -4,4 +4,14 @@
 
 ### I specialize in Web and Cross-Platform Mobile App Development 💻
 
-### Looking for a repo (perhaps you saw it on my resume) that's not public?  I am just doing a quick restructuring of my GitHub and everything should be back soon!
+### Languages, Tools, and Frameworks of Choice:
+- JavaScript 
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- Python/Django
+- HTML/CSS/Bootstrap
+- Flutter/Dart
+- Heroku
+- Google Cloud Platform
