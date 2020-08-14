@@ -1,17 +1,17 @@
 # Hi there, I'm Mike 👋
 
-### I'm a Toronto, Canada based developer 🇨🇦
+###  About Me
 
-### I specialize in Web and Cross-Platform Mobile App Development 💻
-
-### Languages, Tools, and Frameworks of Choice:
-- JavaScript 
-- React.js
-- Node.js
-- MongoDB
-- Express.js
-- Python/Django
-- HTML/CSS/Bootstrap
-- Flutter/Dart
-- Heroku
-- Google Cloud Platform
+```javascript
+const MIKE_PAIVA = {
+  location: "Toronto, Canada",
+  education: {
+    degree: "Bachelor's",
+    program: "Computer Science",
+    expectedGrad: "December 2021"
+  },
+  focus: ["Front-End Web Apps", "Cross-Platform Mobile Apps"],
+  languages: [Javascript, HTML, CSS, Python, Dart],
+  tools: [React.js, Node.js, Express.js, MongoDB, Flutter, Bootstrap]
+};
+```
