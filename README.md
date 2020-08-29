@@ -7,11 +7,11 @@ const MIKE_PAIVA = {
   location: "Toronto, Canada",
   education: {
     degree: "Bachelor's",
-    program: "Computer Science",
+    program: "Information Technology",
     expectedGrad: "December 2021"
   },
-  focus: ["Front-End Web Apps", "Cross-Platform Mobile Apps"],
-  languages: [Javascript, HTML, CSS, Python, Dart],
-  tools: [React.js, Node.js, Express.js, MongoDB, Flutter, Bootstrap]
+  focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps"],
+  languages: [JavaScript, HTML/CSS, Python],
+  tools: [React.js, Node.js, Express.js, MongoDB, React Native, Bootstrap]
 };
 ```
