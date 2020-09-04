@@ -12,6 +12,6 @@ const MIKE_PAIVA = {
   },
   focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps"],
   languages: [JavaScript, HTML/CSS, Python],
-  tools: [ReactJs, NodeJs, ExpressJs, MongoDB, React Native, Bootstrap, Material-UI]
+  tools: [ReactJs, NodeJs, ExpressJs, MongoDB, React Native, Bootstrap, MaterialUI]
 };
 ```
