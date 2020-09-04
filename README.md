@@ -11,7 +11,7 @@ const MIKE_PAIVA = {
     expectedGrad: "December 2021"
   },
   focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps"],
-  languages: [JavaScript, HTML/CSS, Python],
+  languages: [JavaScript, HTML, CSS, Go, Python],
   tools: [ReactJs, NodeJs, ExpressJs, MongoDB, React Native, Bootstrap, MaterialUI]
 };
 ```
