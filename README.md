@@ -10,8 +10,8 @@ const MIKE_PAIVA = {
     program: "Information Technology",
     expectedGrad: "December 2021"
   },
-  focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps"],
+  focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps", "Cloud Computing"],
   languages: [JavaScript, Go],
-  tools: [ReactJs, NodeJs, ExpressJs, MongoDB, React Native, Bootstrap, MaterialUI]
+  tools: [NodeJs, ReactJs, ExpressJs, MongoDB, React Native, Bootstrap, MaterialUI]
 };
 ```
