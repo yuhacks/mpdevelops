@@ -8,10 +8,10 @@ const MIKE_PAIVA = {
   education: {
     degree: "Bachelor's",
     program: "Information Technology",
-    expectedGrad: "December 2021"
+    expectedGrad: "June 2022"
   },
-  focus: ["Full-Stack Web Apps", "Cross-Platform Mobile Apps", "Cloud Computing"],
-  languages: [JavaScript, Go],
-  tools: [NodeJs, ReactJs, ExpressJs, MongoDB, React Native, Bootstrap, MaterialUI]
+  focus: ["Front-End Web Development", "Cloud Computing"],
+  languages: [JavaScript, Python, Go],
+  tools: [NodeJs, ReactJs, Azure]
 };
 ```
